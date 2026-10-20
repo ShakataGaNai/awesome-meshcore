@@ -457,7 +457,7 @@ Tools to see what is happening on the mesh.
 | [MeshBench](https://github.com/MeshBench/meshbench) | RF-accurate simulation and development toolkit running real firmware against a sample-accurate LoRa channel and real terrain; network planning, firmware A/B testing, board emulation, CI fixtures, Wireshark/pcapng and SDR/IQ integration. [Site](https://meshbench.github.io/) |
 | [meshrf.net](https://meshrf.net/) | RF propagation and link analysis tool designed for LoRa Mesh. |
 | [MeshKit](https://meshkit.app/) | Browser site planner with terrain LOS, Fresnel analysis and BLE radio tools. |
-| [MeshOMatic](https://map.meshomatic.net/) | Terrain-aware repeater placement planning and topology analysis. |
+| [MeshOMatic](https://map.meshomatic.net/) | Repeater placement and monitoring: LiDAR-based coverage that improves over time from measured signal, plus per-repeater performance tracking. Built for teams. |
 | [Reticulum Network Planner](https://github.com/0xSeren/Reticulum-Network-Planner) | *(Applies to all LoRa.)* See [Utilities](#utilities). |
 | [DEALORA](https://github.com/MarkSlusar/DEALORA) | Genetic-algorithm antenna design tool for LoRa devices including MeshCore and Meshtastic. |
 
